@@ -125,3 +125,12 @@ pyrightconfig.json
 
 # macOS
 .DS_Store
+
+# my_test_files
+Test.py
+
+# others
+.idea
+Thumbs.db
+.DS_Store
+
